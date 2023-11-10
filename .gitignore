@@ -1,0 +1,14 @@
+.DS_Store
+.vscode
+.env
+
+# python
+__pycache__
+.venv*
+
+# npm files
+node_modules
+yarn-error.log
+
+# pycaret
+logs.log

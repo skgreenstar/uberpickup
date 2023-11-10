@@ -1,0 +1,25 @@
+INFO:  2023-11-10 11:11:09,047 - sparkmonitorkernel - 22912 - MainProcess -         140704711447744 - MainThread
+ Starting Kernel Extension 
+
+INFO:  2023-11-10 11:11:09,048 - sparkmonitorkernel - 22912 - MainProcess -         140704711447744 - MainThread
+ Socket Listening on port 60664 
+
+INFO:  2023-11-10 11:11:09,048 - sparkmonitorkernel - 22912 - MainProcess -         123145541095424 - Thread-4
+ Starting socket thread, going to accept 
+
+INFO:  2023-11-10 11:11:09,049 - sparkmonitorkernel - 22912 - MainProcess -         140704711447744 - MainThread
+ 60664 
+
+INFO:  2023-11-10 11:11:09,049 - sparkmonitorkernel - 22912 - MainProcess -         140704711447744 - MainThread
+ Adding jar from /Users/greenstar/opt/anaconda3/lib/python3.8/site-packages/sparkmonitor/listener.jar  
+
+INFO:  2023-11-10 11:11:09,158 - sparkmonitorkernel - 22912 - MainProcess -         140704711447744 - MainThread
+ COMM OPENED MESSAGE: 
+ {'header': {'date': datetime.datetime(2023, 11, 10, 2, 11, 9, 150000, tzinfo=tzutc()), 'msg_id': 'be6f06a4-811b-4c38-a632-c5d7e9ee2d04', 'msg_type': 'comm_open', 'session': 'f03b46aa-04b7-41ba-9037-b33400db7e5a', 'username': '', 'version': '5.2'}, 'msg_id': 'be6f06a4-811b-4c38-a632-c5d7e9ee2d04', 'msg_type': 'comm_open', 'parent_header': {}, 'metadata': {}, 'content': {'comm_id': '82778518-312c-4ad0-88d2-8d90c0b52244', 'target_name': 'SparkMonitor', 'data': {'msgtype': 'openfromfrontend'}}, 'buffers': []} 
+ 
+
+INFO:  2023-11-10 11:11:09,163 - sparkmonitorkernel - 22912 - MainProcess -         140704711447744 - MainThread
+ COMM OPENED MESSAGE: 
+ {'header': {'date': datetime.datetime(2023, 11, 10, 2, 11, 9, 150000, tzinfo=tzutc()), 'msg_id': '3374063d-9806-44d3-a612-a46396d412b7', 'msg_type': 'comm_open', 'session': 'f03b46aa-04b7-41ba-9037-b33400db7e5a', 'username': '', 'version': '5.2'}, 'msg_id': '3374063d-9806-44d3-a612-a46396d412b7', 'msg_type': 'comm_open', 'parent_header': {}, 'metadata': {}, 'content': {'comm_id': '830c46a4-c205-4532-a147-72c7af107e1d', 'target_name': 'SparkMonitor', 'data': {'msgtype': 'openfromfrontend'}}, 'buffers': []} 
+ 
+
